@@ -73,7 +73,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Paulo Ricardo Xavier Roques 
 
 https://www.linkedin.com/in/wmazoni
 
